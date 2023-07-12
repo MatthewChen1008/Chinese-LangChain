@@ -9,6 +9,8 @@ pinned: true
 app_file: app.py
 ---
 
+pip3 install -r requirements.txt
+
 # Chinese-LangChain
 
 > Chinese-LangChain：中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成
